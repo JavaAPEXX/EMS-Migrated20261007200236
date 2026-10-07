@@ -1,0 +1,1 @@
+Add a test for deleting a rating scale with a non-existing ID.
